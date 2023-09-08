@@ -1,0 +1,10 @@
+.heading{
+    color:rgb(20, 4, 4);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form{
+    padding-left: 500px;
+    padding-top: 20px;
+}
